@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Deva-cabs/static/css/main.3e0ddcc1.css",
+    "main.js": "/Deva-cabs/static/js/main.75117037.js",
+    "static/js/453.8b072921.chunk.js": "/Deva-cabs/static/js/453.8b072921.chunk.js",
+    "static/media/fa-duotone-900.ttf": "/Deva-cabs/static/media/fa-duotone-900.a8144ceebe061e5dce05.ttf",
+    "static/media/fa-thin-100.ttf": "/Deva-cabs/static/media/fa-thin-100.ece5eb6779914541d8c6.ttf",
+    "static/media/fa-light-300.ttf": "/Deva-cabs/static/media/fa-light-300.ece9186b7f2342e5d502.ttf",
+    "static/media/fa-regular-400.ttf": "/Deva-cabs/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-solid-900.ttf": "/Deva-cabs/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/hero-img.jpg": "/Deva-cabs/static/media/hero-img.e743e459d20a696c068e.jpg",
+    "static/media/fa-thin-100.woff2": "/Deva-cabs/static/media/fa-thin-100.33b615159035b065ed14.woff2",
+    "static/media/fa-duotone-900.woff2": "/Deva-cabs/static/media/fa-duotone-900.ce23e2fef2c977244c78.woff2",
+    "static/media/fa-light-300.woff2": "/Deva-cabs/static/media/fa-light-300.c745a7f258a1c6c3cb55.woff2",
+    "static/media/fa-regular-400.woff2": "/Deva-cabs/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-solid-900.woff2": "/Deva-cabs/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.ttf": "/Deva-cabs/static/media/fa-brands-400.4396646c6caf7ad27580.ttf",
+    "static/media/fa-brands-400.woff2": "/Deva-cabs/static/media/fa-brands-400.79debd70511e3f8baa09.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Deva-cabs/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/shape.svg": "/Deva-cabs/static/media/shape.281d7d16326adff552b8.svg",
+    "static/media/fa-v4compatibility.woff2": "/Deva-cabs/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Deva-cabs/index.html",
+    "static/media/2218.html": "/Deva-cabs/static/media/2218.91ba5054748294f72cff.html",
+    "static/media/arrow-right.svg": "/Deva-cabs/static/media/arrow-right.a469f9cc5635628c65de.svg",
+    "static/media/arrow-right2.svg": "/Deva-cabs/static/media/arrow-right2.6c368ae8c1c0b7242920.svg",
+    "static/media/arrow-right3.svg": "/Deva-cabs/static/media/arrow-right3.412c628e904a71f6c6e8.svg",
+    "main.3e0ddcc1.css.map": "/Deva-cabs/static/css/main.3e0ddcc1.css.map",
+    "main.75117037.js.map": "/Deva-cabs/static/js/main.75117037.js.map",
+    "453.8b072921.chunk.js.map": "/Deva-cabs/static/js/453.8b072921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0ddcc1.css",
+    "static/js/main.75117037.js"
+  ]
+}
