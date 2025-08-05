@@ -90,6 +90,7 @@ import Mumbaioutstationcabs from './pages/Mumbai Outstation Cabs';
 import Mumbaidarshancabs from './pages/Mumbai Darshan Cabs';
 import Besttaxiserviceinmumbai from './pages/Best Taxi Service in Mumbai';
 import ContactButtons from './components/ContactButtons';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 
@@ -102,7 +103,7 @@ function App() {
 
 
   return (
-    <Router>
+    <HashRouter>
 <ScrollToTop/>
 <Header/>
 <ContactButtons/>
@@ -207,7 +208,7 @@ function App() {
 
         </Routes>
     <Footer/>
-    </Router>
+    </HashRouter>
  
 
   );
