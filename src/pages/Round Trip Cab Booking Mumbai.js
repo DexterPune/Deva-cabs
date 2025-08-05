@@ -226,7 +226,7 @@ const testimonialData = [
     role: 'Frequent Outstation Traveler',
     review: 'I booked a round trip from Mumbai to Shirdi with Deva Cabs. The entire experience was smooth and professional. The car was clean and the driver very courteous.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -234,7 +234,7 @@ const testimonialData = [
     role: 'Weekend Traveler',
     review: 'Used Deva Cabs for a round trip to Lonavala. The booking was easy, and the return timing flexibility was a big plus. Will definitely use the service again!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

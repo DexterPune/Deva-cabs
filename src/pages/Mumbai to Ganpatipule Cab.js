@@ -214,7 +214,7 @@ const testimonialData = [
     role: 'Pilgrim',
     review: 'Our visit to Ganpatipule with Deva Cabs was smooth and peaceful. The driver was very cooperative and respectful throughout the trip.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 76,
@@ -222,7 +222,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'We had a wonderful road trip to Ganpatipule with Deva Cabs. Clean vehicle, helpful driver, and great service overall.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

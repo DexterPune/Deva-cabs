@@ -259,7 +259,7 @@ const testimonialData = [
     role: 'Solo Traveler',
     review: 'I booked an Ertiga from Deva Cabs for a weekend trip to Lonavala. The vehicle was clean and the driver was very cooperative. Great service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 6,
@@ -267,7 +267,7 @@ const testimonialData = [
     role: 'Corporate Client',
     review: 'Needed a comfortable vehicle for an office group outing and the Ertiga was perfect. Deva Cabs delivered on time and provided excellent support.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

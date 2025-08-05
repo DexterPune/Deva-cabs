@@ -228,7 +228,7 @@ function Cabserviceinpune() {
             role: 'Frequent Commuter',
             review: 'Deva Cabs made my daily commute in Mumbai stress-free. The drivers are always on time, and the vehicles are clean and comfortable. Highly recommend their services!',
             rating: 5,
-            quoteIcon: '/img/icon/testi-quote.svg',
+            quoteIcon: './img/icon/testi-quote.svg',
         },
         {
             id: 2,
@@ -236,7 +236,7 @@ function Cabserviceinpune() {
             role: 'Corporate Executive',
             review: 'I regularly use Deva Cabs for airport transfers and business meetings across Mumbai. Their punctuality and professionalism are unmatched!',
             rating: 5,
-            quoteIcon: '/img/icon/testi-quote.svg',
+            quoteIcon: './img/icon/testi-quote.svg',
         }
     ];
 

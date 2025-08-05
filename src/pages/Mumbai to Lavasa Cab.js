@@ -244,7 +244,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Booked a cab from Mumbai to Lavasa with Deva Cabs. The ride was smooth, the vehicle was comfortable, and the driver was courteous. Great service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 34,
@@ -252,7 +252,7 @@ const testimonialData = [
     role: 'Weekend Tourist',
     review: 'We planned a weekend trip to Lavasa and chose Deva Cabs. Everything from booking to the journey was perfect. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

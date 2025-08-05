@@ -4,7 +4,7 @@ import React from 'react';
 const tourData = [
   {
     title: "Swift Desire",
-    image: "/images/ourfleet/3.jpg",
+    image: "./images/ourfleet/3.jpg",
     seater: "4+1",
     driverAllowance: "₹500",
     perKm: "₹12",
@@ -13,7 +13,7 @@ const tourData = [
   },
   {
     title: "Ertiga",
-    image: "/images/ourfleet/5.jpg",
+    image: "./images/ourfleet/5.jpg",
     seater: "6+1",
     driverAllowance: "₹500",
     perKm: "₹15",
@@ -22,7 +22,7 @@ const tourData = [
   },
   {
     title: "Innova Crysta ",
-    image: "/images/ourfleet/7.jpg",
+    image: "./images/ourfleet/7.jpg",
     seater: "6+1",
     driverAllowance: "₹500",
     perKm: "₹22",
@@ -31,7 +31,7 @@ const tourData = [
   },
   {
     title: "Kia Carens",
-    image: "/images/ourfleet/4.jpg",
+    image: "./images/ourfleet/4.jpg",
     seater: "6+1",
     driverAllowance: "₹500",
     perKm: "₹17",
@@ -40,7 +40,7 @@ const tourData = [
   },
   {
     title: "Innova Cab ",
-    image: "/images/ourfleet/8.jpg",
+    image: "./images/ourfleet/8.jpg",
     seater: "6+1",
     driverAllowance: "₹500",
     perKm: "₹18",
@@ -49,7 +49,7 @@ const tourData = [
   },
   {
     title: "Tempo Traveller",
-    image: "/images/ourfleet/10.jpg",
+    image: "./images/ourfleet/10.jpg",
     seater: "17",
     driverAllowance: "₹500",
     perKm: "₹24",

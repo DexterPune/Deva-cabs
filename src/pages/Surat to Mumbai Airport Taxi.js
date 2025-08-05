@@ -257,7 +257,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Booked a taxi from Surat to Mumbai Airport with Deva Cabs. The driver was punctual and courteous, and the ride was very comfortable.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 22,
@@ -265,7 +265,7 @@ const testimonialData = [
     role: 'Frequent Flyer',
     review: 'Deva Cabs made my trip from Surat to Mumbai Airport hassle-free. Excellent service and professional drivers. Highly recommend!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -224,7 +224,7 @@ const testimonialData = [
     role: 'Devotee',
     review: 'We booked Deva Cabs for our family Ashtavinayak Yatra from Mumbai. The driver was very cooperative and knew all the temple routes well. Excellent service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 46,
@@ -232,7 +232,7 @@ const testimonialData = [
     role: 'Spiritual Traveler',
     review: 'Our 3-day Ashtavinayak trip with Deva Cabs was smooth and comfortable. Every detail was well taken care of. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

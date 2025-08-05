@@ -226,7 +226,7 @@ const testimonialData = [
     role: 'Devotee',
     review: 'We booked Deva Cabs for a spiritual trip to Bhimashankar. The car was clean, the journey was safe, and the driver was very helpful. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 50,
@@ -234,7 +234,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Our Mumbai to Bhimashankar cab was smooth and well-organized. Deva Cabs made the whole trip hassle-free for our family.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -5,37 +5,37 @@ const OurFleet = () => {
   const destinations = [
   {
     id: 2,
-    image: "/images/ourfleet/3.jpg",
+    image: "./images/ourfleet/3.jpg",
     title: "Swift Desire",
     listings: "Swift Dzire combines sleek design with everyday practicality. Ideal for couples or solo travelers looking for comfort, mileage, and smooth city or highway rides.",
   },
   {
     id: 3,
-    image: "/images/ourfleet/5.jpg",
+    image: "./images/ourfleet/5.jpg",
     title: "Ertiga",
     listings: "The Maruti Ertiga is the go-to option for small families and business groups. With flexible seating and modern interiors, it ensures a stress-free ride across any distance.",
   },
   {
     id: 6,
-    image: "/images/ourfleet/7.jpg",
+    image: "./images/ourfleet/7.jpg",
     title: "Innova Crysta",
     listings: "For those who prefer luxury on the go, the Innova Crysta offers plush interiors, top-notch safety, and strong performance—perfect for premium outstation and corporate trips.",
   },
   {
     id: 7,
-    image: "/images/ourfleet/4.jpg",
+    image: "./images/ourfleet/4.jpg",
     title: "Kia Carens",
     listings: "Kia Carens stands out with its elegant design and comfort-first approach. It's a family-friendly ride that adds a touch of class to your weekend outings or vacation plans.",
   },
   {
     id: 8,
-    image: "/images/ourfleet/8.jpg",
+    image: "./images/ourfleet/8.jpg",
     title: "Innova Cab",
     listings: "Built for reliability, the Innova Cab is ideal for daily rentals, airport transfers, or tourist travel. Spacious, dependable, and suited for both business and leisure needs.",
   },
   {
     id: 9,
-    image: "/images/ourfleet/10.jpg",
+    image: "./images/ourfleet/10.jpg",
     title: "Tempo Traveller",
     listings: "Designed for larger groups, the Tempo Traveller offers comfort and space for up to 17 passengers. Perfect for pilgrimages, corporate outings, or school trips across cities.",
   },

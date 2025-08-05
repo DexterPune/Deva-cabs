@@ -266,7 +266,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Booked an Innova Crysta with Deva Cabs for a client visit. The car was in top condition and the driver was punctual and professional. Great experience!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 4,
@@ -274,7 +274,7 @@ const testimonialData = [
     role: 'Family Vacationer',
     review: 'Our family trip to Mahabaleshwar was made extra comfortable thanks to the spacious and smooth Innova Crysta from Deva Cabs. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -230,7 +230,7 @@ const testimonialData = [
     role: 'HR Manager, FinTech Company',
     review: 'We’ve been using Deva Cabs for over a year for our employee transport in Mumbai. Their reliability, clean cars, and professionalism have made them an invaluable partner.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -238,7 +238,7 @@ const testimonialData = [
     role: 'Admin Lead, IT Firm',
     review: 'Deva Cabs helped streamline our corporate travel logistics. From executive airport pickups to large team movements, their service is always on point.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

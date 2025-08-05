@@ -236,7 +236,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'I travel from Mumbai to Daman frequently for both work and leisure. Deva Cabs provides a smooth and safe ride every time. The drivers are friendly, and the cars are always clean.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -244,7 +244,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'I had a fantastic trip from Mumbai to Daman with Deva Cabs. The ride was comfortable, and the driver made sure I was well taken care of throughout the journey. Highly recommend!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

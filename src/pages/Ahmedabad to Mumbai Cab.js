@@ -214,7 +214,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Deva Cabs provided a smooth and timely ride from Ahmedabad to Mumbai. The driver was courteous and the car was very comfortable.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 90,
@@ -222,7 +222,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'We booked a cab from Ahmedabad to Mumbai for a family vacation. The journey was comfortable, and the service was excellent.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

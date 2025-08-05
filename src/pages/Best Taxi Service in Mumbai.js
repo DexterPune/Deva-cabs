@@ -243,7 +243,7 @@ const testimonialData = [
     role: 'Daily Commuter',
     review: 'Deva Cabs is hands down the best taxi service in Mumbai. Always on time, clean cars, polite drivers — everything you expect from a professional service.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -251,7 +251,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'I’ve used multiple taxi services in Mumbai but Deva Cabs stands out for its reliability and smooth booking experience. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

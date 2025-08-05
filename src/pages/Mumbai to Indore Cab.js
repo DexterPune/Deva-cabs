@@ -230,7 +230,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Deva Cabs made my long trip from Mumbai to Indore comfortable and hassle-free. The driver was punctual and courteous.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 58,
@@ -238,7 +238,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Our family trip from Mumbai to Indore was smooth thanks to Deva Cabs. The vehicle was spacious and the service excellent.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

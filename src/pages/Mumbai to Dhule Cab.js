@@ -224,7 +224,7 @@ const testimonialData = [
     role: 'Solo Traveler',
     review: 'Booked a cab from Mumbai to Dhule with Deva Cabs. The driver was polite, and the journey was smooth and safe.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 64,
@@ -232,7 +232,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Our Mumbai to Dhule cab was clean and comfortable. Deva Cabs delivered excellent service and punctual pickup.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -217,7 +217,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'My trip from Mumbai to Vadodara with Deva Cabs was smooth and punctual. Great service and clean car.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 70,
@@ -225,7 +225,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Deva Cabs provided a comfortable ride from Mumbai to Vadodara for our family. The driver was friendly and helpful.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

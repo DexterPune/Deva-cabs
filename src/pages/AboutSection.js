@@ -27,7 +27,7 @@ const AboutSection = () => {
                             <div className="about-item-wrap">
                                 <div className="about-item">
                                     <div className="about-item_img">
-                                        <img src="/img/icon/map3.svg" alt="" />
+                                        <img src="./img/icon/map3.svg" alt="" />
                                     </div>
                                     <div className="about-item_centent">
                                         <h5 className="box-title">Exclusive Trip</h5>
@@ -38,7 +38,7 @@ const AboutSection = () => {
                                 </div>
                                 <div className="about-item">
                                     <div className="about-item_img">
-                                        <img src="/img/icon/guide.svg" alt="" />
+                                        <img src="./img/icon/guide.svg" alt="" />
                                     </div>
                                     <div className="about-item_centent">
                                         <h5 className="box-title">Professional Guide</h5>

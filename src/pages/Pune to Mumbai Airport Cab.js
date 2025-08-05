@@ -255,7 +255,7 @@ const testimonialData = [
     role: 'IT Professional',
     review: 'Booked a cab from Pune to Mumbai Airport for an early morning flight. The driver arrived on time, and the entire experience was hassle-free. Excellent service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 18,
@@ -263,7 +263,7 @@ const testimonialData = [
     role: 'Frequent Flyer',
     review: 'Deva Cabs is my go-to for Pune to Mumbai Airport travel. Always reliable, clean cars, and professional drivers. Highly recommend!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

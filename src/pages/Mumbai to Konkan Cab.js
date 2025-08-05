@@ -233,7 +233,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'I frequently travel from Mumbai to Konkan for work, and Deva Cabs provides the most reliable and comfortable service. The drivers are professional, and the ride is always smooth.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -241,7 +241,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Had a fantastic trip with Deva Cabs from Mumbai to Konkan. The car was clean, and the driver was very knowledgeable about the area. Highly recommend for scenic trips!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

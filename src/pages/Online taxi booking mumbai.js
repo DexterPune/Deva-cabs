@@ -276,7 +276,7 @@ const testimonialData = [
     role: 'Entrepreneur',
     review: 'I needed a last-minute cab in Mumbai and booked online with Deva Cabs. The process was super smooth, and the cab arrived in less than 10 minutes. Great service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -284,7 +284,7 @@ const testimonialData = [
     role: 'Student',
     review: 'Online taxi booking in Mumbai has never been easier. Deva Cabs made it fast and convenient. The driver was polite, and the ride was comfortable.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

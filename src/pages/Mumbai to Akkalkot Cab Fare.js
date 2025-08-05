@@ -228,7 +228,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'I’ve traveled multiple times from Mumbai to Akkalkot with Deva Cabs. The fares are reasonable, and the journey is always comfortable and punctual.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -236,7 +236,7 @@ const testimonialData = [
     role: 'Pilgrim',
     review: 'I took a trip to Akkalkot with Deva Cabs for a religious pilgrimage. The ride was very comfortable, and the driver ensured we had a safe journey. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

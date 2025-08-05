@@ -248,7 +248,7 @@ const testimonialData = [
     role: 'Corporate Executive',
     review: 'I travel frequently from Mumbai to Aurangabad for work, and Deva Cabs provides a hassle-free and comfortable experience. The drivers are always punctual, and the ride is smooth every time.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -256,7 +256,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Had a great trip from Mumbai to Aurangabad with Deva Cabs. The car was clean, and the driver was very knowledgeable about the area. Would definitely recommend it for a comfortable journey!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

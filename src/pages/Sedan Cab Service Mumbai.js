@@ -231,7 +231,7 @@ const testimonialData = [
     role: 'Corporate Client',
     review: 'I frequently use Deva Cabs’ sedan service for meetings across Mumbai. The cars are always clean, and the drivers are very professional. Highly recommended for business travelers.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -239,7 +239,7 @@ const testimonialData = [
     role: 'Frequent Commuter',
     review: 'I’ve booked sedan cabs multiple times with Deva Cabs for airport and city travel. The rides are always punctual and comfortable. A very dependable service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -12,7 +12,7 @@ const testimonialData = [
     review:
       '“Deva Cabs made my airport transfer completely stress-free. The driver was punctual, polite, and the ride was incredibly smooth. I’ll definitely book again!”',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const testimonialData = [
     review:
       '“Reliable, clean, and comfortable – that’s what I love about Deva Cabs. I’ve used their service multiple times and have always had a great experience.”',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const testimonialData = [
     review:
       '“Our company regularly books Deva Cabs for official travel. Their professional drivers and on-time service make them the best choice for business needs.”',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const testimonialData = [
     review:
       '“I’ve been working with Deva Cabs for 3 years and I truly enjoy being part of a team that values customer satisfaction and safe driving.”',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const testimonialData = [
     review:
       '“From city rides to outstation trips, Deva Cabs is my go-to. Their drivers are respectful and the rides are always comfortable and reasonably priced.”',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
 ];
 

@@ -256,7 +256,7 @@ const testimonialData = [
     role: 'Local Commuter',
     review: 'Booked a car in Navi Mumbai through Deva Cabs for a day trip. The car was clean and the driver was very polite and punctual. Great service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 12,
@@ -264,7 +264,7 @@ const testimonialData = [
     role: 'Freelance Consultant',
     review: 'Needed a sedan for client meetings across Navi Mumbai. Deva Cabs provided excellent service and flexibility. Will definitely book again.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

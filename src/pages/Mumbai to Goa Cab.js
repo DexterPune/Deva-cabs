@@ -236,7 +236,7 @@ const testimonialData = [
     role: 'Traveler',
     review: 'We booked a cab from Mumbai to Goa with Deva Cabs. The ride was comfortable and the driver was punctual and courteous. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 52,
@@ -244,7 +244,7 @@ const testimonialData = [
     role: 'Vacationer',
     review: 'Deva Cabs made our Mumbai to Goa journey smooth and hassle-free. The vehicle was clean and perfect for a long trip.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

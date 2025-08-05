@@ -4,15 +4,15 @@ const Galleryy = () => {
 
   const galleryImages = [
     
-    "/images/ourfleet/1.jpg",
-    "/images/ourfleet/2.jpg",
-    "/images/ourfleet/4.jpg",
-    "/images/ourfleet/5.jpg",
-    "/images/ourfleet/45.jpg",
-    "/images/ourfleet/22.jpg",
-    "/images/ourfleet/8.jpg",
-    "/images/ourfleet/10.jpg",
-    "/images/ourfleet/11.jpg",
+    "./images/ourfleet/1.jpg",
+    "./images/ourfleet/2.jpg",
+    "./images/ourfleet/4.jpg",
+    "./images/ourfleet/5.jpg",
+    "./images/ourfleet/45.jpg",
+    "./images/ourfleet/22.jpg",
+    "./images/ourfleet/8.jpg",
+    "./images/ourfleet/10.jpg",
+    "./images/ourfleet/11.jpg",
 
    
   ];

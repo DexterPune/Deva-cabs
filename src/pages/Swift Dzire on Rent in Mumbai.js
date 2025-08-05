@@ -226,7 +226,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'I rented a Swift Dzire from Deva Cabs for a business trip in Mumbai. The car was in excellent condition, and the driver was very professional. It was a comfortable and convenient experience.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -234,7 +234,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'I rented a Swift Dzire for a day trip around Mumbai with Deva Cabs. The car was clean and spacious, and the driver was very courteous. Highly recommend this service for anyone visiting Mumbai!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

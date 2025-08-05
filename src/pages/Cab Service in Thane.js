@@ -236,7 +236,7 @@ const testimonialData = [
     role: 'Daily Commuter',
     review: 'Deva Cabs is my go-to service for traveling around Thane. The drivers are always punctual, and the cars are in excellent condition. Great experience every time!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -244,7 +244,7 @@ const testimonialData = [
     role: 'IT Professional',
     review: 'I use Deva Cabs for my daily office commute from Thane to Powai. The service is consistent and safe, even during late-night shifts.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

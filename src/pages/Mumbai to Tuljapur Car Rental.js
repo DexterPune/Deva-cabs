@@ -244,7 +244,7 @@ const testimonialData = [
     role: 'Business Executive',
     review: 'I rented a car from Deva Cabs for a trip to Tuljapur. The service was seamless, and the driver was professional and knowledgeable about the route. Highly recommend it!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -252,7 +252,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'I had a great experience renting a car for my trip to Tuljapur. The ride was smooth, and the driver was courteous and helpful throughout the journey.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

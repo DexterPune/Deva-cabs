@@ -224,7 +224,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'I travel to Khandala often for weekend getaways. Deva Cabs offers great service with competitive fares. The drivers are professional, and the ride is always smooth.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -232,7 +232,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Took a taxi from Mumbai to Khandala with Deva Cabs for a quick trip. The car was clean, the driver was friendly, and the ride was comfortable. Highly recommend for a scenic drive!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

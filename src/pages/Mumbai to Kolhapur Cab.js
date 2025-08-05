@@ -246,7 +246,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'I booked a cab from Mumbai to Kolhapur for a business trip. The driver was punctual, the car was neat, and the journey was smooth. Great service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 38,
@@ -254,7 +254,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Deva Cabs made our trip from Mumbai to Kolhapur stress-free. The vehicle was clean and the driver was very professional. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

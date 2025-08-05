@@ -58,7 +58,7 @@ const About = () => {
 <div className="about-item-wrap">
   <div className="about-item style2">
     <div className="about-item_img">
-      <img src="/img/icon/about_1_1.svg" alt="Comfortable Rides" />
+      <img src="./img/icon/about_1_1.svg" alt="Comfortable Rides" />
     </div>
     <div className="about-item_centent">
       <h5 className="box-title">Comfortable Rides</h5>
@@ -70,7 +70,7 @@ const About = () => {
 
   <div className="about-item style2">
     <div className="about-item_img">
-      <img src="/img/icon/about_1_2.svg" alt="Safe & Reliable" />
+      <img src="./img/icon/about_1_2.svg" alt="Safe & Reliable" />
     </div>
     <div className="about-item_centent">
       <h5 className="box-title">Safe & Reliable</h5>
@@ -82,7 +82,7 @@ const About = () => {
 
   <div className="about-item style2">
     <div className="about-item_img">
-      <img src="/img/icon/about_1_3.svg" alt="24/7 Availability" />
+      <img src="./img/icon/about_1_3.svg" alt="24/7 Availability" />
     </div>
     <div className="about-item_centent">
       <h5 className="box-title">24/7 Availability</h5>

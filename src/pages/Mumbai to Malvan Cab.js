@@ -221,7 +221,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Our Mumbai to Malvan trip with Deva Cabs was fantastic. The vehicle was spacious and the driver was very courteous.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 80,
@@ -229,7 +229,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Thanks to Deva Cabs, we enjoyed a comfortable and safe journey to Malvan. Highly recommended service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -26,7 +26,7 @@ const ContactInfo = () => {
           <div className="col-xl-4 col-lg-6">
             <div className="about-contact-grid">
               <div className="about-contact-icon">
-                <img src="/img/icon/call.svg" alt="Phone Icon" />
+                <img src="./img/icon/call.svg" alt="Phone Icon" />
               </div>
               <div className="about-contact-details">
                 <h6 className="box-title">Phone Number</h6>
@@ -43,7 +43,7 @@ const ContactInfo = () => {
           <div className="col-xl-4 col-lg-6">
             <div className="about-contact-grid">
               <div className="about-contact-icon">
-                <img src="/img/icon/mail.svg" alt="Mail Icon" />
+                <img src="./img/icon/mail.svg" alt="Mail Icon" />
               </div>
               <div className="about-contact-details">
                 <h6 className="box-title">Email Address</h6>
@@ -60,7 +60,7 @@ const ContactInfo = () => {
  <div className="col-xl-4 col-lg-6">
             <div className="about-contact-grid style2">
               <div className="about-contact-icon">
-                <img src="/img/icon/location-dot2.svg" alt="Location Icon" />
+                <img src="./img/icon/location-dot2.svg" alt="Location Icon" />
               </div>
               <div className="about-contact-details">
                 <h6 className="box-title">Our Address</h6>

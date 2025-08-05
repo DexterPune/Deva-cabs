@@ -240,7 +240,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'I often use Deva Cabs for pick-up and drop-off services at Mumbai International Airport. The drivers are punctual, and the service is always top-notch. I never have to worry about missing my flight!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -248,7 +248,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'My first experience with Deva Cabs was when I landed at Mumbai International Airport. The driver was waiting for me with a sign, and the ride to my hotel was smooth and comfortable. Highly recommend!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -270,7 +270,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'We rented a tempo traveller from Deva Cabs for a family trip. The vehicle was spacious and comfortable, and the driver was very courteous. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -278,7 +278,7 @@ const testimonialData = [
     role: 'Event Organizer',
     review: 'Deva Cabs made our corporate outing smooth with their tempo traveller rental service. Professional driver and well-maintained vehicle. Will book again.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -250,7 +250,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'I often travel from Mumbai to Bangalore for work, and Deva Cabs has been my go-to service. The drivers are professional, and the ride is always comfortable and punctual.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -258,7 +258,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'I took a cab from Mumbai to Bangalore with Deva Cabs for a sightseeing trip. The entire experience was hassle-free, and the driver was very knowledgeable about places to visit along the way.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -250,7 +250,7 @@ const testimonialData = [
     role: 'Tour Organizer',
     review: 'Booked a mini bus from Deva Cabs for a college picnic. The vehicle was spacious and clean, and the journey was very smooth. Highly satisfied!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 8,
@@ -258,7 +258,7 @@ const testimonialData = [
     role: 'Wedding Planner',
     review: 'We hired a mini bus for wedding guest transportation. Everything was well-managed and punctual. Deva Cabs did a great job!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

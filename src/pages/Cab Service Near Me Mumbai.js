@@ -259,7 +259,7 @@ const testimonialData = [
     role: 'Marketing Executive',
     review: 'I searched for a cab service near me in Mumbai and found Deva Cabs. The driver arrived within 10 minutes and the ride was smooth. Highly efficient!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -267,7 +267,7 @@ const testimonialData = [
     role: 'College Student',
     review: 'Whenever I need a cab near me in Mumbai, I rely on Deva Cabs. They’re always reliable, safe, and quick to respond.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -261,7 +261,7 @@ const testimonialData = [
     role: 'Corporate Traveler',
     review: 'I booked a cab from Mumbai to Khandala for a quick getaway. The car was neat and the driver was very professional. Great experience with Deva Cabs!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 32,
@@ -269,7 +269,7 @@ const testimonialData = [
     role: 'Weekend Traveler',
     review: 'Deva Cabs made our trip to Khandala super comfortable. Clean vehicle, courteous driver, and smooth booking. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

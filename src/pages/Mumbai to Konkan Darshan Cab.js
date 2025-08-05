@@ -218,7 +218,7 @@ const testimonialData = [
     role: 'Nature Enthusiast',
     review: 'Our Konkan Darshan trip with Deva Cabs was incredible. Beautiful coastal views, excellent driver, and a smooth ride throughout.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 74,
@@ -226,7 +226,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Deva Cabs helped us explore the best of Konkan in comfort. The cab was clean, and the driver was very knowledgeable about the region.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

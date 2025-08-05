@@ -200,7 +200,7 @@ const testimonialData = [
     role: 'Pilgrim',
     review: 'Deva Cabs made our 5 Jyotirlinga Yatra from Mumbai absolutely smooth. The driver was courteous and knew all the routes. It was a divine journey.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 48,
@@ -208,7 +208,7 @@ const testimonialData = [
     role: 'Devotional Traveler',
     review: 'We visited all 5 Jyotirlingas with Deva Cabs. The vehicle was spacious and comfortable. Great experience for spiritual travelers.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

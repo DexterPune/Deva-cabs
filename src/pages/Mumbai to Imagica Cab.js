@@ -229,7 +229,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'We booked a cab from Mumbai to Imagica with Deva Cabs. The ride was smooth, the driver was friendly, and everything went perfectly.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 56,
@@ -237,7 +237,7 @@ const testimonialData = [
     role: 'Group Traveler',
     review: 'Deva Cabs provided a spacious vehicle for our group trip to Imagica. The service was reliable and comfortable throughout.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

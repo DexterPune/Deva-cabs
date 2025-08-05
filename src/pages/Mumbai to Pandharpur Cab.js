@@ -248,7 +248,7 @@ const testimonialData = [
     role: 'Pilgrim',
     review: 'We booked Deva Cabs for a pilgrimage to Pandharpur. The vehicle was in great condition and the driver was polite and helpful throughout the journey.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 44,
@@ -256,7 +256,7 @@ const testimonialData = [
     role: 'Religious Traveler',
     review: 'Deva Cabs made our Mumbai to Pandharpur trip smooth and worry-free. Highly recommended for long-distance travel!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

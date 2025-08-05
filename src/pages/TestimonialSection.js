@@ -62,7 +62,7 @@ const TestimonialSection = () => {
                   </div>
                   <p className="testi-card_text">{testimonial.review}</p>
                   <div className="testi-card-quote">
-                    <img src="/img/icon/testi-quote.svg" alt="quote" />
+                    <img src="./img/icon/testi-quote.svg" alt="quote" />
                   </div>
                 </div>
               </SwiperSlide>

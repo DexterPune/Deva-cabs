@@ -260,7 +260,7 @@ const testimonialData = [
     role: 'Frequent Flyer',
     review: 'Deva Cabs never disappoints when it comes to airport transfers. The cab arrived on time, was clean, and the driver was very polite. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 10,
@@ -268,7 +268,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Booked a late-night cab from Mumbai airport through Deva Cabs. The booking process was smooth and the service was prompt and professional.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

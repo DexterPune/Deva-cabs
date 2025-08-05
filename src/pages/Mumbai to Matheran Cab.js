@@ -245,7 +245,7 @@ const testimonialData = [
     role: 'Nature Enthusiast',
     review: 'Deva Cabs dropped us right at Dasturi Naka for our Matheran trip. The car was clean, and the service was top-notch. Will book again!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 36,
@@ -253,7 +253,7 @@ const testimonialData = [
     role: 'Weekend Traveler',
     review: 'Our Mumbai to Matheran cab ride with Deva Cabs was smooth and punctual. The driver was courteous and knew the route well. Excellent experience!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

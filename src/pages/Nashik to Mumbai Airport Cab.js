@@ -258,7 +258,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'Used Deva Cabs for my trip from Nashik to Mumbai Airport. The driver was punctual and courteous, and the vehicle was very comfortable.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 24,
@@ -266,7 +266,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Booked a cab from Nashik to Mumbai Airport with Deva Cabs. Excellent service and smooth ride. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

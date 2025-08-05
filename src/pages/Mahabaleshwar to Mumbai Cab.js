@@ -220,7 +220,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'We had a pleasant trip from Mahabaleshwar to Mumbai with Deva Cabs. The driver was very courteous and the vehicle was comfortable.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 94,
@@ -228,7 +228,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Booking a cab from Mahabaleshwar to Mumbai with Deva Cabs was smooth and hassle-free. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

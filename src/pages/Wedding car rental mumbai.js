@@ -264,7 +264,7 @@ const testimonialData = [
     role: 'Groom',
     review: 'We hired a wedding car from Deva Cabs for my baraat, and it was perfect. The car was well-decorated, arrived on time, and the chauffeur was very courteous.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -272,7 +272,7 @@ const testimonialData = [
     role: 'Event Planner',
     review: 'Deva Cabs is our go-to for wedding transportation in Mumbai. They always provide clean, elegant cars with reliable service—great for both the bride/groom and guest movement.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

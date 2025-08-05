@@ -227,7 +227,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'I booked an outstation cab from Mumbai to Pune with Deva Cabs. The experience was flawless — clean car, professional driver, and on-time service. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -235,7 +235,7 @@ const testimonialData = [
     role: 'Leisure Traveler',
     review: 'Used Deva Cabs for a weekend getaway from Mumbai to Mahabaleshwar. Booking was easy and the ride was very comfortable. Will definitely use them for future trips!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

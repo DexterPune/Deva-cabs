@@ -13,7 +13,7 @@ const WhyChooseUs = () => {
 
             <div className="choose-about wow fadeInUp">
               <div className="choose-about_icon">
-                <img src="/img/icon/choose_1_1.svg" alt="image" />
+                <img src="./img/icon/choose_1_1.svg" alt="image" />
               </div>
               <div className="media-body">
                 <h3 className="box-title">Reliable & Safe Rides</h3>
@@ -25,7 +25,7 @@ const WhyChooseUs = () => {
 
             <div className="choose-about wow fadeInUp">
               <div className="choose-about_icon">
-                <img src="/img/icon/choose_1_2.svg" alt="image" />
+                <img src="./img/icon/choose_1_2.svg" alt="image" />
               </div>
               <div className="media-body">
                 <h3 className="box-title">Affordable Travel Solutions</h3>
@@ -37,7 +37,7 @@ const WhyChooseUs = () => {
 
             <div className="choose-about wow fadeInUp">
               <div className="choose-about_icon">
-                <img src="/img/icon/choose_1_3.svg" alt="image" />
+                <img src="./img/icon/choose_1_3.svg" alt="image" />
               </div>
               <div className="media-body">
                 <h3 className="box-title">Wide Network Coverage</h3>

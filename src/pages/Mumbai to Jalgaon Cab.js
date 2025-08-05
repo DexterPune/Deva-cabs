@@ -227,7 +227,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Deva Cabs made my Mumbai to Jalgaon trip comfortable and stress-free. The driver was professional and courteous.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 62,
@@ -235,7 +235,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Our family enjoyed a smooth and comfortable ride from Mumbai to Jalgaon with Deva Cabs. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

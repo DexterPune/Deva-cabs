@@ -255,7 +255,7 @@ const testimonialData = [
     role: 'Pilgrim',
     review: 'We booked a taxi from Mumbai Airport to Shirdi with Deva Cabs. The vehicle was clean, driver was respectful, and the journey was smooth. Very satisfied.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 16,
@@ -263,7 +263,7 @@ const testimonialData = [
     role: 'Senior Citizen',
     review: 'Deva Cabs made my Shirdi trip from Mumbai Airport very comfortable. The driver was patient and helpful throughout. Great service for elderly travelers.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

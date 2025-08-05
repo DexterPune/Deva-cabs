@@ -217,7 +217,7 @@ const testimonialData = [
     role: 'Corporate Client',
     review: 'I frequently travel from Nashik to Mumbai and Deva Cabs has been consistently reliable. Clean cars and on-time service.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 86,
@@ -225,7 +225,7 @@ const testimonialData = [
     role: 'Senior Citizen',
     review: 'We booked a cab from Nashik to Mumbai for a hospital visit. The driver was courteous and very helpful. Thank you, Deva Cabs!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

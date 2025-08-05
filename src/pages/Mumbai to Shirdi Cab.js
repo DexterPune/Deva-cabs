@@ -259,7 +259,7 @@ const testimonialData = [
     role: 'Pilgrim',
     review: 'Booked a cab from Mumbai to Shirdi with Deva Cabs. The vehicle was comfortable and the driver was very courteous. Highly recommend!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 28,
@@ -267,7 +267,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Deva Cabs made my trip to Shirdi from Mumbai smooth and hassle-free. Excellent service and professional drivers.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

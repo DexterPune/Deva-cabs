@@ -221,7 +221,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Our trip from Panchgani to Mumbai was comfortable and hassle-free thanks to Deva Cabs. The driver was courteous and punctual.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 96,
@@ -229,7 +229,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'I highly recommend Deva Cabs for travel from Panchgani to Mumbai. Great service and clean vehicles.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -233,7 +233,7 @@ const testimonialData = [
     role: 'Tourist from Delhi',
     review: 'Booked a Mumbai Darshan cab with Deva Cabs and had an amazing day. The driver was very polite and knew all the important spots. The car was clean and comfortable.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -241,7 +241,7 @@ const testimonialData = [
     role: 'Visitor from Gujarat',
     review: 'We used Deva Cabs for a family Mumbai Darshan tour. Everything was well organized, and the driver was very helpful. Highly recommend them for a relaxed sightseeing experience.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

@@ -229,7 +229,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'I travel from Mumbai to Vapi regularly for work, and Deva Cabs always provides a reliable, comfortable, and safe service. The drivers are punctual, and the cars are well-maintained.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -237,7 +237,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'I took a cab from Mumbai to Vapi for a trip with friends. The experience was amazing! The ride was smooth, and the driver was very friendly. I’ll definitely choose Deva Cabs again for my next trip.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

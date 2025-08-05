@@ -9,6 +9,15 @@ import './css/bootstrap.min.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+// Restore original route after 404.html redirect
+const redirectPath = sessionStorage.getItem('redirect');
+if (redirectPath) {
+  sessionStorage.removeItem('redirect');
+  window.history.replaceState(null, '', redirectPath);
+}
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

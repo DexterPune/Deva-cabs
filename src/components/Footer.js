@@ -126,7 +126,7 @@ const Footer = () => {
               {/* <div className=""> */}
               <div className="info-box_text">
                 <div className="icon">
-                  <img src="/img/icon/phone.svg" alt="img" />
+                  <img src="./img/icon/phone.svg" alt="img" />
                 </div>
                 <div className="details">
                   <p>
@@ -143,7 +143,7 @@ const Footer = () => {
               </div>
               <div className="info-box_text">
                 <div className="icon">
-                  <img src="/img/icon/envelope.svg" alt="img" />
+                  <img src="./img/icon/envelope.svg" alt="img" />
                 </div>
                 <div className="details">
                   <p>
@@ -159,7 +159,7 @@ const Footer = () => {
               </div>
               <div className="info-box_text">
                 <div className="icon">
-                  <img src="/img/icon/location-dot.svg" alt="img" />
+                  <img src="./img/icon/location-dot.svg" alt="img" />
                 </div>
                 <div className="details">
                   <p className='text-white'>SS-2 404 Sector -17 Behind Mother India School Koparkhairne Navi Mumbai 400709</p>

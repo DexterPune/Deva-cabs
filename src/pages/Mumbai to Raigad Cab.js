@@ -221,7 +221,7 @@ const testimonialData = [
     role: 'Trekker',
     review: 'Booked Deva Cabs for a trek to Raigad Fort. The cab was on time, clean, and the driver was very friendly and helpful.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 82,
@@ -229,7 +229,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Our family trip to Raigad was smooth with Deva Cabs. Safe driving and great service throughout.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

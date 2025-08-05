@@ -216,7 +216,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Deva Cabs made my Mumbai to Surat travel seamless. On-time pickup and very professional driver.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 68,
@@ -224,7 +224,7 @@ const testimonialData = [
     role: 'Frequent Commuter',
     review: 'I frequently travel between Mumbai and Surat and always choose Deva Cabs for their reliable and clean service.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

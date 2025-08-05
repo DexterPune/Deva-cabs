@@ -240,7 +240,7 @@ const testimonialData = [
     role: 'Local Resident',
     review: 'I rely on Deva Cabs for my daily commute in Navi Mumbai. The drivers are punctual, and the cars are well-maintained. Truly a dependable service!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -248,7 +248,7 @@ const testimonialData = [
     role: 'Business Traveler',
     review: 'Deva Cabs provided me seamless airport transfers from Navi Mumbai. The booking process was simple, and the ride was very comfortable.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

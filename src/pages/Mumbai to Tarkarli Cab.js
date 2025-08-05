@@ -220,7 +220,7 @@ const testimonialData = [
     role: 'Beach Lover',
     review: 'We had an amazing road trip to Tarkarli with Deva Cabs. Comfortable car and a very friendly driver who knew the route well.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 78,
@@ -228,7 +228,7 @@ const testimonialData = [
     role: 'Adventure Traveler',
     review: 'Tarkarli was stunning! Thanks to Deva Cabs for the hassle-free cab service. Smooth ride and helpful staff.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

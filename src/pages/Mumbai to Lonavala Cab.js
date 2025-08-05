@@ -260,7 +260,7 @@ const testimonialData = [
     role: 'Weekend Traveler',
     review: 'Booked a cab from Mumbai to Lonavala with Deva Cabs. The trip was smooth, and the driver was very professional. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 30,
@@ -268,7 +268,7 @@ const testimonialData = [
     role: 'Tourist',
     review: 'Deva Cabs made our Lonavala trip from Mumbai easy and comfortable. The vehicle was clean and the driver courteous.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

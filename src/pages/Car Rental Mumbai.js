@@ -229,7 +229,7 @@ const testimonialData = [
     role: 'Frequent Traveler',
     review: 'I booked a car rental in Mumbai with Deva Cabs for a weekend trip. The car was clean, the driver was professional, and the entire process was seamless. Great experience!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 2,
@@ -237,7 +237,7 @@ const testimonialData = [
     role: 'Event Organizer',
     review: 'Deva Cabs helped us with car rentals for our corporate event in Mumbai. Timely service, courteous drivers, and well-maintained cars. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 

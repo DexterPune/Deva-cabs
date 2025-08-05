@@ -231,7 +231,7 @@ const testimonialData = [
     role: 'Traveler',
     review: 'Our Mumbai to Jaipur cab ride with Deva Cabs was smooth and comfortable. The driver was courteous and punctual.',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   },
   {
     id: 60,
@@ -239,7 +239,7 @@ const testimonialData = [
     role: 'Family Traveler',
     review: 'Deva Cabs made our long-distance journey from Mumbai to Jaipur hassle-free and enjoyable. Highly recommended!',
     rating: 5,
-    quoteIcon: '/img/icon/testi-quote.svg',
+    quoteIcon: './img/icon/testi-quote.svg',
   }
 ];
 
