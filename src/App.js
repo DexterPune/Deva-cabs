@@ -1,5 +1,7 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Routes, Route, BrowserRouter as Router } from 'react-router-dom';
+
+// import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import Header from './components/Header';
@@ -90,7 +92,6 @@ import Mumbaioutstationcabs from './pages/Mumbai Outstation Cabs';
 import Mumbaidarshancabs from './pages/Mumbai Darshan Cabs';
 import Besttaxiserviceinmumbai from './pages/Best Taxi Service in Mumbai';
 import ContactButtons from './components/ContactButtons';
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 
@@ -103,7 +104,7 @@ function App() {
 
 
   return (
-    <HashRouter>
+    <BrowserRouter>
 <ScrollToTop/>
 <Header/>
 <ContactButtons/>
@@ -208,7 +209,7 @@ function App() {
 
         </Routes>
     <Footer/>
-    </HashRouter>
+    </BrowserRouter>
  
 
   );
