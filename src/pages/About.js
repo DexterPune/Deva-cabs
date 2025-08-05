@@ -28,11 +28,11 @@ const About = () => {
           <div className="col-xl-6">
             <div className="img-box3">
               <div className="img1">
-                <img src="/images/about.jpg" alt="About" />
+                <img src="./images/about.jpg" alt="About" />
               </div>
              
               <div className="img1 pt-4">
-                <img src="/images/about2.jpg" alt="About" />
+                <img src="./images/about2.jpg" alt="About" />
               </div>
               
               

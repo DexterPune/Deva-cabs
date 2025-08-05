@@ -105,7 +105,7 @@ function App() {
 
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Deva-cabs'>
 <ScrollToTop/>
 <Header/>
 <ContactButtons/>

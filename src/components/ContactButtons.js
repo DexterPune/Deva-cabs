@@ -36,7 +36,7 @@ const ContactButtons = () => {
         onMouseOver={(e) => (e.currentTarget.style.backgroundColor = '#FF8F1F')}
         onMouseOut={(e) => (e.currentTarget.style.backgroundColor = '#FF8F1F')}
       >
-        <img src="/images/phone.png" alt="Call" style={{ width: '30px', height: '30px' }} />
+        <img src="./images/phone.png" alt="Call" style={{ width: '30px', height: '30px' }} />
       </a>
 
       <a 
@@ -64,7 +64,7 @@ const ContactButtons = () => {
         onMouseOver={(e) => (e.currentTarget.style.backgroundColor = '#1DAE3E')}
         onMouseOut={(e) => (e.currentTarget.style.backgroundColor = '#25D366')}
       >
-        <img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: '30px', height: '30px' }} />
+        <img src="./images/whatsapp.png" alt="WhatsApp" style={{ width: '30px', height: '30px' }} />
       </a>
 
     </div>

@@ -50,10 +50,10 @@ const WhyChooseUs = () => {
 
           <div className="col-lg-6">
             <div className="choose-wrapp">
-              <div className="img1 global-img"><img src="/images/why-img.png" alt="Choose" /></div>
-              <div className="img1 global-img"><img src="/images/why-img2.png" alt="Choose" /></div>
-              <div className="img1 global-img"><img src="/images/why-img3.png" alt="Choose" /></div>
-              <div className="img1 global-img"><img src="/images/why-img4.png" alt="Choose" /></div>
+              <div className="img1 global-img"><img src="./images/why-img.png" alt="Choose" /></div>
+              <div className="img1 global-img"><img src="./images/why-img2.png" alt="Choose" /></div>
+              <div className="img1 global-img"><img src="./images/why-img3.png" alt="Choose" /></div>
+              <div className="img1 global-img"><img src="./images/why-img4.png" alt="Choose" /></div>
             </div>
           </div>
         </div>

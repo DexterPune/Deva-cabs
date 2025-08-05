@@ -9,7 +9,7 @@ const AboutSection = () => {
                     <div className="col-xl-6">
                         <div className="img-box4 space-bottom">
                             <div className="img1">
-                                <img src="/images/mumbaicab.png" alt="About" />
+                                <img src="./images/mumbaicab.png" alt="About" />
                             </div>
                           
                         </div>

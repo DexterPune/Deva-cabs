@@ -45,7 +45,7 @@ const Header = () => {
       <div className="main-navigation">
         <Navbar expand="lg">
           <Container>
-            <img src="/images/logo.jpg" className='logoo' alt="logo" />
+            <img src="./images/logo.jpg" className='logoo' alt="logo" />
             <Navbar.Toggle aria-controls="main_nav" onClick={toggleNav}>
               <i className="fas fa-bars darkcolorr"></i>
             </Navbar.Toggle>

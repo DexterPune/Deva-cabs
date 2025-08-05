@@ -7,7 +7,7 @@ const blogPosts = [
     date: 'July 05 2024',
     readTime: 'Lonavala, a picturesque hill station near Pune and Mumbai, is famous for its lush green valleys, misty hills, and stunning waterfalls. Known for attractions like Tiger’s Leap, Bhushi Dam, and Karla Caves, it’s a perfect getaway for nature lovers and adventure seekers. Do not forget to try the famous Lonavala chikki while enjoying the scenic beauty! 🌿⛰️',
     title: 'Mumbai to Lonavala Cab ',
-    image: '/images/keyword/23.jpg',
+    image: './images/keyword/23.jpg',
     link: '/Mumbai-to-Lonavala-Cab',
   },
   {
@@ -15,7 +15,7 @@ const blogPosts = [
     date: 'July 06 2024',
     readTime: 'Konkan, a breathtaking coastal region in Maharashtra, is known for its pristine beaches, lush greenery, and rich cultural heritage. From the serene shores of Ganpatipule and Tarkarli to the historical forts of Sindhudurg, it offers a perfect blend of nature, adventure, and history. The region is also famous for its delicious seafood and authentic Konkani cuisine. 🌊🌴',
     title: 'Mumbai to Konkan Cab ',
-    image: '/images/keyword/52.jpg',
+    image: './images/keyword/52.jpg',
     link: '/Mumbai-to-Konkan-Cab',
   },
   {
@@ -23,7 +23,7 @@ const blogPosts = [
     date: 'July 09 2024',
     readTime: 'Ganpatipule, a serene coastal town in Maharashtra, is famous for its pristine beaches and the revered Ganpatipule Temple dedicated to Lord Ganesha. The turquoise waters, golden sands, and lush hills make it a perfect spiritual and leisure destination. Visitors can also explore nearby attractions like Aare-Ware Beach and Jaigad Fort for a scenic and cultural experience. 🌊🙏',
     title: 'Mumbai to Ganpatipule Cab ',
-    image: '/images/keyword/47.jpg',
+    image: './images/keyword/47.jpg',
     link: '/Mumbai-to-Ganpatipule-Cab',
   },
   {
@@ -31,7 +31,7 @@ const blogPosts = [
     date: 'July 10 2024',
     readTime: 'Escape the city with a relaxing cab ride from Mumbai to Matheran — a peaceful hill station known for its scenic views, cool climate, and vehicle-free charm. Perfect for a weekend getaway, Matheran offers fresh air, nature trails, horse rides, and stunning viewpoints just a few hours from Mumbai. With no cars allowed inside, you can truly unwind in its serene, old-world atmosphere.',
     title: 'Mumbai to Matheran Cab ',
-    image: '/images/keyword/26.jpg',
+    image: './images/keyword/26.jpg',
     link: '/Mumbai-to-Matheran-Cab',
   },
 ];

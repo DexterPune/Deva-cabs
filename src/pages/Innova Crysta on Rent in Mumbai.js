@@ -318,132 +318,132 @@ const testimonialData = [
 
     const Images = [
         {
-            place: "/images/keyword/1.jpg",
+            place: "./images/keyword/1.jpg",
             text: "Cab Service in Mumbai",
             link: "/Cab-Service-in-Mumbai"
         },
         {
-            place: "/images/keyword/2.jpg",
+            place: "./images/keyword/2.jpg",
             text: "Cab Service in Navi Mumbai",
             link: "/Cab-Service-in-Navi-Mumbai"
         },
         {
-            place: "/images/keyword/3.jpg",
+            place: "./images/keyword/3.jpg",
             text: "Cab Service in Thane",
             link: "/Cab-Service-in-Thane"
         },
         {
-            place: "/images/keyword/4.jpg",
+            place: "./images/keyword/4.jpg",
             text: "Cab Service Near Me Mumbai",
             link: "/Cab-Service-Near-Me-Mumbai"
         },
         {
-            place: "/images/keyword/5.jpg",
+            place: "./images/keyword/5.jpg",
             text: "Car Rental in Mumbai",
             link: "/Car-Rental-in-Mumbai"
         },
         {
-            place: "/images/keyword/6.jpg",
+            place: "./images/keyword/6.jpg",
             text: "Corporate Cab Services in Mumbai",
             link: "/Corporate-Cab-Services-in-Mumbai"
         },
         {
-            place: "/images/keyword/7.jpg",
+            place: "./images/keyword/7.jpg",
             text: "Online Taxi Booking Mumbai",
             link: "/Online-Taxi-Booking-Mumbai"
         },
         {
-            place: "/images/keyword/8.jpg",
+            place: "./images/keyword/8.jpg",
             text: "Wedding Car Rental Mumbai",
             link: "/Wedding-Car-Rental-Mumbai"
         },
         {
-            place: "/images/keyword/9.jpg",
+            place: "./images/keyword/9.jpg",
             text: "Tempo Traveller on Rent in Mumbai",
             link: "/Tempo-Traveller-on-Rent-in-Mumbai"
         },
         {
-            place: "/images/keyword/10.jpg",
+            place: "./images/keyword/10.jpg",
             text: "Innova Crysta on Rent in Mumbai",
             link: "/Innova-Crysta-on-Rent-in-Mumbai"
         },
         {
-            place: "/images/keyword/11.jpg",
+            place: "./images/keyword/11.jpg",
             text: "Ertiga on Rent in Mumbai",
             link: "/Ertiga-on-Rent-in-Mumbai"
         },
         {
-            place: "/images/keyword/12.jpg",
+            place: "./images/keyword/12.jpg",
             text: "Mini Bus on Rent in Mumbai",
             link: "/Mini-Bus-on-Rent-in-Mumbai"
         },
         {
-            place: "/images/keyword/13.jpg",
+            place: "./images/keyword/13.jpg",
             text: "Mumbai Airport Cab Booking",
             link: "/Mumbai-Airport-Cab-Booking"
         },
         {
-            place: "/images/keyword/14.jpg",
+            place: "./images/keyword/14.jpg",
             text: "Navi Mumbai Car Rental Service",
             link: "/Navi-Mumbai-Car-Rental-Service"
         },
         {
-            place: "/images/keyword/15.jpg",
+            place: "./images/keyword/15.jpg",
             text: "Mumbai Airport to Pune Cab",
             link: "/Mumbai-Airport-to-Pune-Cab"
         },
         {
-            place: "/images/keyword/16.jpg",
+            place: "./images/keyword/16.jpg",
             text: "Mumbai Airport to Shirdi Taxi",
             link: "/Mumbai-Airport-to-Shirdi-Taxi"
         },
         {
-            place: "/images/keyword/17.jpg",
+            place: "./images/keyword/17.jpg",
             text: "Pune to Mumbai Airport Cab",
             link: "/Pune-to-Mumbai-Airport-Cab"
         },
         {
-            place: "/images/keyword/18.jpg",
+            place: "./images/keyword/18.jpg",
             text: "Pune Airport to Mumbai Cab",
             link: "/Pune-Airport-to-Mumbai-Cab"
         },
         {
-            place: "/images/keyword/19.jpg",
+            place: "./images/keyword/19.jpg",
             text: "Surat to Mumbai Airport Taxi",
             link: "/Surat-to-Mumbai-Airport-Taxi"
         },
         {
-            place: "/images/keyword/20.jpg",
+            place: "./images/keyword/20.jpg",
             text: "Nashik to Mumbai Airport Cab",
             link: "/Nashik-to-Mumbai-Airport-Cab"
         },
         {
-            place: "/images/keyword/21.jpg",
+            place: "./images/keyword/21.jpg",
             text: "Mumbai to Nashik Cab",
             link: "/Mumbai-to-Nashik-Cab"
         },
         {
-            place: "/images/keyword/22.jpg",
+            place: "./images/keyword/22.jpg",
             text: "Mumbai to Shirdi Cab",
             link: "/Mumbai-to-Shirdi-Cab"
         },
         {
-            place: "/images/keyword/23.jpg",
+            place: "./images/keyword/23.jpg",
             text: "Mumbai to Lonavala Cab",
             link: "/Mumbai-to-Lonavala-Cab"
         },
         {
-            place: "/images/keyword/24.jpg",
+            place: "./images/keyword/24.jpg",
             text: "Mumbai to Khandala Cab",
             link: "/Mumbai-to-Khandala-Cab"
         },
         {
-            place: "/images/keyword/25.jpg",
+            place: "./images/keyword/25.jpg",
             text: "Mumbai to Lavasa Cab",
             link: "/Mumbai-to-Lavasa-Cab"
         },
         {
-            place: "/images/keyword/26.jpg",
+            place: "./images/keyword/26.jpg",
             text: "Mumbai to Matheran Cab",
             link: "/Mumbai-to-Matheran-Cab"
         }
@@ -528,7 +528,7 @@ const productSchema = {
                 <div className="container-fluid" >
                     <div className="row container-fluid">
                         <div className="col-12 col-md-7 ">
-                            <img src='/images/keyword/10.jpg' alt='img' />
+                            <img src='./images/keyword/10.jpg' alt='img' />
                             <h3 className="py-1"
                                 style={{
                                     color: '#F8911B', // Red color for the title 
