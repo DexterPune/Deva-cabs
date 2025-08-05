@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Deva-cabs/static/css/main.3e0ddcc1.css",
-    "main.js": "/Deva-cabs/static/js/main.722f4144.js",
+    "main.js": "/Deva-cabs/static/js/main.f52f5941.js",
     "static/js/453.8b072921.chunk.js": "/Deva-cabs/static/js/453.8b072921.chunk.js",
     "static/media/fa-duotone-900.ttf": "/Deva-cabs/static/media/fa-duotone-900.a8144ceebe061e5dce05.ttf",
     "static/media/fa-thin-100.ttf": "/Deva-cabs/static/media/fa-thin-100.ece5eb6779914541d8c6.ttf",
@@ -25,11 +25,11 @@
     "static/media/arrow-right2.svg": "/Deva-cabs/static/media/arrow-right2.6c368ae8c1c0b7242920.svg",
     "static/media/arrow-right3.svg": "/Deva-cabs/static/media/arrow-right3.412c628e904a71f6c6e8.svg",
     "main.3e0ddcc1.css.map": "/Deva-cabs/static/css/main.3e0ddcc1.css.map",
-    "main.722f4144.js.map": "/Deva-cabs/static/js/main.722f4144.js.map",
+    "main.f52f5941.js.map": "/Deva-cabs/static/js/main.f52f5941.js.map",
     "453.8b072921.chunk.js.map": "/Deva-cabs/static/js/453.8b072921.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e0ddcc1.css",
-    "static/js/main.722f4144.js"
+    "static/js/main.f52f5941.js"
   ]
 }
